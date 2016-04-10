@@ -27,6 +27,8 @@ a GPU-accelerated hardware.
 
 ### Examples
 
+Here are some samples of what text can the network produce:
+
 Input text: "A butterfly in "
 
 *A butterfly in* the sun  
