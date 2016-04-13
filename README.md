@@ -20,7 +20,8 @@ To train on your own input file,
 
 ### Installation
 
-You will need [TensorFlow](https://www.tensorflow.org/) and a few other python libs. 
+You will need [TensorFlow](https://www.tensorflow.org/) (works on version 0.7.1 but not on earlier releases)
+and a few other python libs. 
 To use the trained example, you don't need special hardware (e.g. a GPU), you can run TensorFlow
 on the CPU, but if you plan to train on your own input text, it will take forever without
 a GPU-accelerated hardware.
